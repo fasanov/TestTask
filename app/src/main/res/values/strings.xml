@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test task</string>
+    <string name="retry">Retry</string>
+    <string name="fetching_data">Fetching data</string>
+</resources>
